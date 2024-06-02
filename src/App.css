@@ -1,0 +1,33 @@
+*{
+    color: rgb(233,110,80);
+    text-align: center;
+}
+.App { 
+    font-family: Arial, sans-serif;
+  }
+  
+  
+.search-bar input {
+    border-style: none;
+    border: 1px solid rgb(233,110,80);
+    padding: 10px;
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    color: rgb(233,110,80);
+    font-size: 16px;
+    
+}
+  
+.search-bar button {
+    border-style: none; 
+    border: 1px solid rgb(233,110,80);
+    background-color: white;
+    color: white;
+    padding: 10px;
+    background-color: rgb(233,110,80);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
